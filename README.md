@@ -81,18 +81,11 @@ post-funding.
 - Full Verse implementations of all systems above
 - Configurable custom UMG widgets with Verse Fields for all UI components
 - Free-to-use asset library: UI sounds, animated materials, icon atlases
-- Demo map built with kitbashing techniques using Fortnite and official Epic assets
+- Demo map built with kitbashing techniques using Fortnite assets
 - Video tutorial series covering systems, UI animation, and kitbashing
 - Full documentation for every system and configuration option
 - Actively maintained with each significant UEFN platform release
 
----
-
-## Epic Developer Community
-
-Simple Crafting System snippet contributed to the official Epic Developer
-Community Snippets library:
-dev.epicgames.com/community/snippets/vOxw
 
 ---
 
